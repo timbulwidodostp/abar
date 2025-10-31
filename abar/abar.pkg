@@ -1,0 +1,4 @@
+D 'abar': Arellano-Bond test for autocorrelation Use abar With STATA 19
+D
+F abar.ado
+F abar.hlp
